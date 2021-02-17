@@ -1,0 +1,12 @@
+keras
+flask
+opencv-python
+numpy
+time
+sys
+werkzeug.utils
+gevent.pywsgi
+glob
+re
+random
+matplotlib
