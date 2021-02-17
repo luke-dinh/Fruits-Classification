@@ -3,5 +3,5 @@
 Result (After creating API using Flask-Python)
 
 <p align = "center">
-  <img src = "https://user-images.githubusercontent.com/51883796/108173569-e1776800-7130-11eb-866d-482cdffe1781.png">
+  <img src = "https://user-images.githubusercontent.com/51883796/108173687-066bdb00-7131-11eb-9682-addccb4c15c0.png">
 </p>
