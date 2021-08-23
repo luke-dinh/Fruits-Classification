@@ -12,7 +12,7 @@ Note: You can change your image path in load_img
 
 ```
 pip3 install requirements.txt
-python3 test.py
+python3 test.py --test_image = YOUR_IMAGE_PATH --model_path = YOUR_MODEL_PATH
 
 ```
 ## 2. Using API:
