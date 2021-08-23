@@ -1,5 +1,4 @@
 from keras.preprocessing.image import load_img, img_to_array
-from keras.applications.vgg16 import preprocess_input, decode_predictions
 from keras.models import load_model
 import tensorflow as tf
 import cv2
@@ -31,6 +30,3 @@ cv2.putText(org, "Class: {}".format(CATEGORIES[np.argmax(score)]),
 	(10, 30), cv2.FONT_HERSHEY_SIMPLEX, 0.7, (0, 0, 255), 2)
 cv2.imshow("Classification", org)
 cv2.waitKey(0)
-
-
-
