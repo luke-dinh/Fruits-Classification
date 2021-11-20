@@ -11,14 +11,15 @@ Result (After creating API using Flask-Python)
 Note: You can change your image path in load_img 
 
 ```
-pip3 install requirements.txt
-python3 test.py --test_image = YOUR_IMAGE_PATH --model_path = YOUR_MODEL_PATH
+pip install -r requirements.txt
+python test.py --test_image = YOUR_IMAGE_PATH --model_path = YOUR_MODEL_PATH
 
 ```
 ## 2. Using API:
 
 ```
-pip3 install requirements.txt
-python3 app.py
+cd Fruit-Classification
+pip install -r requirements.txt
+python app.py
 
 ```
